@@ -1,0 +1,16 @@
+word_list =[
+    "test",
+    "good",
+    "bad",
+    "anwser",
+    "apple",
+    "samsung",
+    "nokia",
+    "python",
+    "golang",
+    "html",
+    "css",
+    "javascript",
+    "java",
+    "php",
+]
