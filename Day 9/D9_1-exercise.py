@@ -1,6 +1,3 @@
-from turtle import st
-
-
 student_scores = {
   "Harry": 81,
   "Ron": 78,
